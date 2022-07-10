@@ -1,0 +1,66 @@
+Segment;Klasse;Baureihe;Karosserieform;Typklasse;Vorgänger Typklasse;Beschreibung;Autoscout24 Modell;Autoscout24 Karosserieform;Erstzulassung von;Erstzulassung bis
+Kompaktklasse;B;245;Kompaktvan;T245;;B-Klasse Tourer;B-Klasse (alle);;2006;2011
+Kompaktklasse;B;246;Kompaktvan;T246;T245;B-Klasse Tourer;B-Klasse (alle);;2012;2017
+Kompaktklasse;B;247;Kompaktvan;W247;T246;B-Klasse Tourer;B-Klasse (alle);;2020;
+Mittelklasse;C;202;Limousine;W202;W201;C-Klasse Limousine;C-Klasse (alle);Limousine;1994;1999
+Mittelklasse;C;202;Kombi;S202;;C-Klasse Kombi;C-Klasse (alle);Kombi;1997;2000
+Mittelklasse;C;203;Limousine;W203;W202;C-Klasse Limousine;C-Klasse (alle);Limousine;2001;2006
+Mittelklasse;C;203;Kombi;S203;S202;C-Klasse Kombi;C-Klasse (alle);Kombi;2002;2006
+Mittelklasse;C;203;Coupe;CL203;;C-Klasse Sportcoupe;C-Klasse (alle);Coupé;2002;2009
+Mittelklasse;C;204;Limousine;W204;W203;C-Klasse Limousine;C-Klasse (alle);Limousine;2008;2013
+Mittelklasse;C;204;Kombi;S204;S203;C-Klasse Kombi;C-Klasse (alle);Kombi;2008;2013
+Mittelklasse;C;204;Coupe;C204;CL203;C-Klasse Coupe;C-Klasse (alle);Coupé;2012;2014
+Mittelklasse;C;205;Limousine;W205;W204;C-Klasse Limousine;C-Klasse (alle);Limousine;2015;2020
+Mittelklasse;C;205;Kombi;S205;S204;C-Klasse Kombi;C-Klasse (alle);Kombi;2015;2020
+Mittelklasse;C;205;Coupe;C205;C204;C-Klasse Coupe;C-Klasse (alle);Coupé;2016;
+Mittelklasse;C;205;Cabrio;A205;;C-Klasse Cabriolet;C-Klasse (alle);Cabrio;2017;
+Oberklasse;S;215;Coupe;C215;C140;CL Coupe;CL (alle);;2000;2004
+Oberklasse;S;216;Coupe;C216;C215;CL Coupe;CL (alle);;2007;2013
+Kompaktklasse;CLA;117;Coupe;C117;;CLA Coupe;CLA (alle);Coupé, Limousine;2014;2018
+Kompaktklasse;CLA;117;Coupe;X117;;CLA Shooting Brake;CLA (alle);Kombi;2016;2018
+Kompaktklasse;CLA;118;Coupe;C118;C117;CLA Coupe;CLA (alle);Coupé, Limousine;2020;
+Kompaktklasse;CLA;118;Coupe;X118;X117;CLA Shooting Brake;CLA (alle);Kombi;2020;
+Mittelklasse;C;208;Cabrio;A208;A124;CLK Cabriolet;CLK (alle);Cabrio;1998;2003
+Mittelklasse;C;208;Coupe;C208;C124;CLK Coupe;CLK (alle);Coupé, Limousine;1998;2001
+Obere Mittelklasse;E;209;Coupe;C209;C208;CLK Coupe;CLK (alle);Coupé, Limousine;2003;2008
+Obere Mittelklasse;E;209;Cabrio;A209;A208;CLK Cabriolet;CLK (alle);Cabrio;2004;2008
+Oberklasse;CLS;219;Coupe;C219;;CLS Coupe;CLS (alle);;2005;2009
+Oberklasse;CLS;218;Coupe;C218;C219;CLS Coupe;CLS (alle);Coupé, Limousine;2012;2016
+Obere Mittelklasse;CLS;218;Kombi;X218;C219;CLS Shooting Brake;CLS (alle);Kombi;2013;2016
+Oberklasse;CLS;257;Coupe;C257;C218;CLS Coupe;CLS (alle);;2019;
+Obere Mittelklasse;E;210;Limousine;W210;W124;E-Klasse Limousine;E-Klasse (alle);Limousine;1996;2001
+Obere Mittelklasse;E;210;Kombi;S210;S124;E-Klasse Kombi;E-Klasse (alle);Kombi;1997;2001
+Obere Mittelklasse;E;211;Limousine;W211;W210;E-Klasse Limousine;E-Klasse (alle);Limousine;2003;2008
+Obere Mittelklasse;E;211;Kombi;S211;S210;E-Klasse Kombi;E-Klasse (alle);Kombi;2004;2008
+Obere Mittelklasse;E;212;Limousine;W212;W211;E-Klasse Limousine;E-Klasse (alle);Limousine;2010;2015
+Obere Mittelklasse;E;207;Coupe;C207;C209;E-Klasse Coupe;E-Klasse (alle);Coupé;2010;2015
+Obere Mittelklasse;E;212;Kombi;S212;S211;E-Klasse Kombi;E-Klasse (alle);Kombi;2010;2015
+Obere Mittelklasse;E;207;Cabrio;A207;A209;E-Klasse Cabriolet;E-Klasse (alle);Cabrio;2011;2015
+Obere Mittelklasse;E;213;Limousine;W213;W212;E-Klasse Limousine;E-Klasse (alle);Limousine;2017;
+Obere Mittelklasse;E;213;Kombi;S213;S212;E-Klasse Kombi;E-Klasse (alle);Kombi;2017;
+Obere Mittelklasse;E;238;Coupe;C238;C207;E-Klasse Coupe;E-Klasse (alle);Coupé;2018;
+Obere Mittelklasse;E;238;Cabrio;A238;A207;E-Klasse Cabriolet;E-Klasse (alle);Cabrio;2018;
+SUV;EQC;293;SUV;N293;;EQC SUV;EQC 400;;2020;
+SUV;G;461/463;SUV;W461/463;;G-Klasse SUV;G-Klasse (alle);;1979;
+SUV;GLS;164;SUV;X164;;GL-Klasse SUV;GL (alle);;2007;2011
+SUV;GLA;156;SUV;X156;;GLA SUV;GLA (alle);;2015;2019
+SUV;GLA;247;SUV;H247;X156;GLA SUV;GLA (alle);;2021;
+SUV;GLB;247;SUV;X247;X253;GLB SUV;GLB (alle);;2020;
+SUV;GLC;253;SUV;X253;X204;GLC SUV;GLC (alle);SUV/Geländewagen/Pickup;2016;
+SUV;GLC;253;SUV-Coupe;C253;;GLC Coupe;GLC (alle);Coupé;2017;
+SUV;GLE;166;SUV;W166;W164;GLE SUV;GLE (alle);SUV/Geländewagen/Pickup;2012;2017
+SUV;GLE;292;SUV-Coupe;C292;;GLE Coupe;GLE (alle);Coupé;2016;2018
+SUV;GLE;167;SUV;V167;W166;GLE SUV;GLE (alle);SUV/Geländewagen/Pickup;2020;
+SUV;GLE;167;SUV-Coupe;C167;C292;GLE Coupe;GLE (alle);Coupé;2021;
+SUV;GLC;204;SUV;X204;;GLK SUV;GLK (alle);;2009;2014
+SUV;GLS;166;SUV;X166;X164;GLS SUV;GLS (alle);;2013;2018
+SUV;GLS;167;SUV;X167;X166;GLS SUV;GLS (alle);;2020;
+SUV;GLE;163;SUV;W163;;M-Klasse SUV;M-Klasse (alle);;1999;2004
+SUV;GLE;164;SUV;W164;W163;M-Klasse SUV;M-Klasse (alle);;2006;2010
+Oberklasse;S;140;Limousine;WV140;;S-Klasse Limousine;S-Klasse (alle);Limousine;1992;1997
+Oberklasse;S;220;Limousine;WV220;WV140;S-Klasse Limousine;S-Klasse (alle);Limousine;1999;2004
+Oberklasse;S;221;Limousine;WV221;WV220;S-Klasse Limousine;S-Klasse (alle);Limousine;2006;2012
+Oberklasse;S;222;Limousine;WV222;WV221;S-Klasse Limousine;S-Klasse (alle);Limousine;2014;2020
+Oberklasse;S;217;Coupe;C217;C216;S-Klasse Coupe;S-Klasse (alle);Coupé;2015;2020
+Oberklasse;S;217;Cabrio;A217;;S-Klasse Cabriolet;S-Klasse (alle);Cabrio;2017;
+Oberklasse;S;223;Limousine;WV223;WV222;S-Klasse Limousine;S-Klasse (alle);Limousine;2021;

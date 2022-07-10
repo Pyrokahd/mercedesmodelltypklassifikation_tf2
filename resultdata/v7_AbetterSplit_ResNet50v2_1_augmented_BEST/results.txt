@@ -1,0 +1,22 @@
+ResNet50v2 - pretrained on imagenet (1000 classes)
+Training: 1 FC Layer and the last 40 Layer of ResNet
+Split: 20% Test 70% Train 10% Validation - Test moved to different Folder, to not be augmented
+With Augmentation
+
+Using 143976 files for training.
+Using 15997 files for validation.
+Using 27801 files for Test.
+
+Total params: 23,697,985
+Trainable params: 15,367,233
+Non-trainable params: 8,330,752
+Batchsize: 32
+Learnrate: 0.0001
+Dropout: 20%
+Epochen: 20  (Early Stopping mit Patience 2)
+
+Validation:
+{'loss': 0.5163354277610779, 'accuracy': 0.8977933526039124}
+
+Test:
+Test accuracy : 0.8665875196456909

@@ -1,0 +1,15 @@
+All "é" in the metadata have been replaced to "e"
+All "ß" in the metadata have been replaced to "ss"
+All "ä" in the metadata have been replaced to "ae"
+All "ö" in the metadata have been replaced to "oe"
+All "ü" in the metadata have been replaced to "ue"
+All "Ã" replaced with "ss" (this char was used at some places for "ß" for some reason)
+
+They have been removed manualy. The Web Crawler currently doesnt do it.
+
+This is because: despite encoding="utf-8" and ensure_ascii=False (in json.dump or json.dumps)
+those character make trouble when trying to load and sometimes when trying save the json (though that usually works).
+
+
+Also label "W461/463" is changed to "W461-463" to be able to create a folder with that name. (automatically )
+
