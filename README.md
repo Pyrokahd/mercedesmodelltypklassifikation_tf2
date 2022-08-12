@@ -4,6 +4,7 @@ A CNN made with TF2 to classify images of mercedes-benz cars and detect what typ
 In this project the dataset was created by a webcrawler and then cleaned by object detection and manual sorting.
 The model itself is a finetuned resnet50v2.
 
+(Description in german)
 
 Falls Modell_v7 geladen werden soll, muss es zuvor wie in der Create_models.py Datei gezeigt, erstellt werden. Parameter sind: resnetType = 'ResNet50V2', dropoutrate = 0.2 und base_layer_to_finetune = 40.
 
