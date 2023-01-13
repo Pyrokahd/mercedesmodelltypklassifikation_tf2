@@ -29,7 +29,7 @@ Those are then filtered by hand. However through clustering the images into grou
 For training a pretrained ResNet is used with an added classifier and further finetuned. 149.874 images are used to classify 65 classes. Imbalanced classes are dealt with through augmentation and class weights.
 The archieved performance on the test set is 86,66% and performance per class is shown below:
 ![accuracy metrics](/doc_assets/Accuracy.PNG)
-Images are of size 225x224 pixels and there are (after augmentation) 143976 images in the trainset, 15997 images in the validation set and 27801 images in the testset. All sets sharing the same distribution per class.
+Images are of size 224x224 pixels and there are (after augmentation) 143976 images in the trainset, 15997 images in the validation set and 27801 images in the testset. All sets sharing the same distribution per class.
 <br/>
 
 ## Step 3: Evaluate wrong predictions
