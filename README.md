@@ -10,7 +10,7 @@ Falls Modell_v7 geladen werden soll, muss es zuvor wie in der Create_models.py D
 
 # Struktur
 Die Gruppierung und Struktur der einzelnen Dateien und Ordner ist hier dargestellt. <br/>
-Es gibt zwei Funktionalitäten, den Webcrawler und den Deep Learning Klassifierer. Utility Skripte werden genutzt um die Daten z.B. vorverarbeiten durch Augmentierung oder Aufteilen in Train- und Test/-set. Resultate der Experimente sind im resultdata Ordner zu finden. <br/>
+Es gibt zwei Funktionalitäten, den Webcrawler und den Deep Learning Klassifizierer. Utility Skripte werden genutzt um die Daten z.B. vorverarbeiten durch Augmentierung oder Aufteilen in Train- und Test/-set. Resultate der Experimente sind im resultdata Ordner zu finden. <br/>
 <br/>
 ![filtered images by algorithm](/doc_assets/ProjektStrukturDiagramm.drawio.png)
 
